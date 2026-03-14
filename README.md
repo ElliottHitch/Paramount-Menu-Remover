@@ -1,6 +1,6 @@
 # Paramount Menu Remover
 
-Unofficial Chrome extension that removes the Paramount menu that completely covers half the screen every timne you move the mouse.
+Unofficial Chrome extension that removes the Paramount menu that completely covers half the screen every time you move the mouse.
 
 ## What it does
 
