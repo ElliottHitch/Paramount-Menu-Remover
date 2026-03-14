@@ -4,7 +4,6 @@ Simple Chrome extension that removes the Paramount+ playback sidebar overlay.
 
 ## What it does
 
-- Runs on `paramountplus.com`
 - Removes elements that use the `skin-sidebar-plugin` class
 - Keeps watching the page and removes the overlay again if it comes back
 
