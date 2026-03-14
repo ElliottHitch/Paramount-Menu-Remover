@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Paramount Menu Remover",
   "version": "1.0.0",
-  "description": "Removes on-screen overlay/menu elements from Paramount+ playback pages.",
+  "description": "Removes on-screen overlay/menu elements from Paramount playback pages.",
   "content_scripts": [
     {
       "matches": [
