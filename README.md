@@ -1,6 +1,6 @@
 # Paramount Menu Remover
 
-Simple Chrome extension that removes the Paramount playback sidebar overlay.
+Simple Chrome extension that removes the Paramount menu that completely covers half the screen every timne you move the mouse.
 
 ## What it does
 
@@ -12,8 +12,7 @@ Simple Chrome extension that removes the Paramount playback sidebar overlay.
 1. Open `chrome://extensions`
 2. Turn on Developer mode
 3. Click Load unpacked
-4. Select this folder:
-   `C:\Users\Elliott\Documents\Coding\paramountMenuRemover`
+
 
 ## Files
 
