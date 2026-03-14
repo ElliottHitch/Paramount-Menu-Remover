@@ -1,4 +1,4 @@
-# Paramount+ Menu Remover
+# Paramount Menu Remover
 
 Simple Chrome extension that removes the Paramount+ playback sidebar overlay.
 
@@ -19,7 +19,3 @@ Simple Chrome extension that removes the Paramount+ playback sidebar overlay.
 
 - `manifest.json` - extension setup
 - `content.js` - removes the targeted menu elements
-
-## Notes
-
-This extension is limited to Paramount+ pages and only targets the sidebar/menu overlay used during playback.
